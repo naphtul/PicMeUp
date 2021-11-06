@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicMeUp</string>
+    <string name="album_name" translatable="false">PicMeUp</string>
+    <string name="baseServerName">http://pmu-naphtul.rhcloud.com/</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="btn_upload_to_server">Share Pictures</string>
+    <string name="btn_browse_pictures">Browse Pictures</string>
+    <string name="app_id" translatable="false">845875632109230</string>
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="imageview_description">Image Thumbnail</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+    <string name="downloading_picture">Downloading Picture...</string>
+
+    <string-array name="categories">
+        <item>Nature</item>
+        <item>People</item>
+        <item>Urban</item>
+        <item>Paparazzi</item>
+        <item>Celebs</item>
+        <item>Animation</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="categories_prompt">Select a category</string>
+    <string name="rate">Rate this picture</string>
+    <string name="title_activity_buy_picture">Buy Picture</string>
+    <string name="buy">Buy</string>
+	<string name="payment_not_confirmed">Payment not confirmed. Download is disabled.</string>
+	<string name="waiting_for_payment">Please wait for payment confirmation.</string>
+	<string name="payment_confirmed">Payment confirmed. Press Download to retrive your picture.</string>
+	<string name="download">Download</string>
+	<string name="take_picture">Take a Picture</string>
+	<string name="share_picture">Share a Picture</string>
+	<string name="select_picture">Select a Picture</string>
+	<string name="click_back">Click the Back key to continue.</string>
+
+
+</resources>
